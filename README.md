@@ -15,10 +15,9 @@ together with  <a href="https://plotly.com/dash/">Dash</a> to visualize the Data
 
 ## Installation
 
-- Download or clone the GitHub repository
-- <a href="https://drive.google.com/file/d/1fVeelG2sLKh6XJ5e7QDzPMg0PQPOHwfF/view?usp=sharing"> Download</a> from Google Drive (includes the Data)
+- Download or clone the GitHub repository OR <a href="https://drive.google.com/file/d/1fVeelG2sLKh6XJ5e7QDzPMg0PQPOHwfF/view?usp=sharing"> Download</a> from Google Drive (includes the Data)
 - Run index.py or index.ipynb
-- -Enjoy
+- Enjoy
 
 ## API Keys
 
