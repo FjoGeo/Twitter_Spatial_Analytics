@@ -25,3 +25,10 @@ Geocoding is achieved by  <a href="https://geopy.readthedocs.io/en/stable//">Geo
 Keys can be obtained from <a href="https://developer.twitter.com/en">Twitter Developers</a>, which requires a registration and a mobile phone. <br>
 Register and get the Consumer Key, Consumer Key Secret, Access Token und Access Secret and insert them into app.py
 
+## Requirements
+All requirements can be found in the  <a href="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/requirements.txt">requirements.txt</a>
+
+## Features
+
+
+
