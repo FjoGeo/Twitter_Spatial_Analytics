@@ -8,5 +8,17 @@ together with  <a href="https://plotly.com/dash/">Dash</a> to visualize the Data
 
 ## Table of Contents
 
-1. Resources
-2. Preparation
+1. Installation
+2. API Keys
+3. Requirements
+4. Features
+
+## Installation
+
+- Download or clone the GitHub repository
+- <a href="https://drive.google.com/file/d/1fVeelG2sLKh6XJ5e7QDzPMg0PQPOHwfF/view?usp=sharing"> Download</a> from Google Drive (includes the Data)
+- Run index.py or index.ipynb
+- -Enjoy
+
+## API Keys
+
