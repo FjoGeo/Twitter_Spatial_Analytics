@@ -30,7 +30,7 @@ All requirements can be found in the  <a href="https://github.com/FjoGeo/Twitter
 
 ## Features
 
-### Search and Analyze
+### Search, Analyze and Download
 <img src="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/images/2.jpg" width="800" height="600">
 
 ### Natural Language Tool Kit
@@ -41,4 +41,6 @@ All requirements can be found in the  <a href="https://github.com/FjoGeo/Twitter
 
 <img src="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/images/4.jpg" width="800" height="900">
 
+### Examples with Kaggle Data
 
+<img src="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/images/5.jpg" width="800" height="600">
