@@ -2,7 +2,8 @@
 
 A spatial analysis tool, which uses  <a href="https://python-twitter.readthedocs.io/en/latest/">Python Twitter</a> for Datamining 
 and <a href="https://plotly.com/python/plotly-express/">Plotly Express</a> 
-together with  <a href="https://plotly.com/dash/">Dash</a> to visualize the Data.
+together with  <a href="https://plotly.com/dash/">Dash</a> to visualize the Data. <br>
+Geocoding is achieved by  <a href="https://geopy.readthedocs.io/en/stable//">GeoPy</a> and <a href="https://geopandas.org/en/stable/">GeoPandas</a>.
 
 <img src="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/images/1.jpg" width="800" height="600">
 
@@ -20,4 +21,7 @@ together with  <a href="https://plotly.com/dash/">Dash</a> to visualize the Data
 - Enjoy
 
 ## API Keys
+
+Keys can be obtained from <a href="https://developer.twitter.com/en">Twitter Developers</a>, which requires a registration and a mobile phone. <br>
+Register and get the Consumer Key, Consumer Key Secret, Access Token und Access Secret and insert them into app.py
 
