@@ -30,5 +30,15 @@ All requirements can be found in the  <a href="https://github.com/FjoGeo/Twitter
 
 ## Features
 
+### Search and Analyze
+<img src="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/images/2.jpg" width="800" height="600">
+
+### Natural Language Tool Kit
+
+<img src="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/images/3.jpg" width="800" height="600">
+
+### Upload and view your own data
+
+<img src="https://github.com/FjoGeo/Twitter_Spatial_Analytics/blob/main/images/4.jpg" width="800" height="900">
 
 
